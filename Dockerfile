@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/sig-storage/snapshot-controller:v4.0.0
+FROM dbgate/dbgate:6.4.2-alpine
